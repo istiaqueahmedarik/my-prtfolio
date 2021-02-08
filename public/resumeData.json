@@ -1,0 +1,118 @@
+{
+  "main": {
+    "pic":"profilepic.jpg",
+    "name": "Istiaque Ahmed Arik",
+    "occupation": "Web Developer",
+    "description": "I Love Coding",
+    "image": "profilepic.jpg",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas semper mauris in vulputate mattis. Donec vulputate in ipsum in tristique. Mauris eleifend tempor porttitor. Praesent vitae mi nec orci luctus ultricies quis quis est. Ut a turpis a ante vestibulum aliquam vitae in lacus. Quisque fermentum nisl quis orci sodales hendrerit. Donec at erat sapien. Duis viverra nisl sit amet diam faucibus lobortis. Morbi id dolor risus. Sed vulputate euismod ante, ac tristique sem tempor id. Aenean commodo ultricies leo et mattis. Curabitur id quam eu quam ornare posuere. Nam mattis quam at luctus tincidunt. Vivamus vehicula diam quis dui suscipit convallis.Nullam maximus vitae nibh id maximus. Maecenas maximus erat nec quam eleifend tincidunt. Aliquam ut urna a magna porta hendrerit eget in diam. Pellentesque at nunc diam. Pellentesque maximus congue massa, eget vulputate purus feugiat quis. Mauris justo tortor, dignissim vel sem imperdiet, suscipit consequat risus. Quisque ullamcorper leo vitae tincidunt auctor. In hac habitasse platea dictumst. Nulla suscipit lorem ac ex euismod ullamcorper. Etiam in metus id nisi tincidunt ullamcorper a quis magna. Nunc sit amet maximus leo, et molestie dolor.",
+    "email": "istiaqueahmedarik@gmail.com",
+    "phone": "+8801996187813",
+    "address": {
+      "street": "Dhaka",
+      "city": "Bangladesh",
+      "state": "Dhaka",
+      "zip": "1206"
+    },
+    "website": "https://www.facebook.com/istiaqueahmed.arik/",
+    "resumedownload": "https://drive.google.com/file/d/116l0nXHmJh4X-o2giPFy6lqNSr_giHFo/view?usp=sharing",
+    "social": [
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/istiaqueahmed.arik/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/istiaque-ahmed-arik-305809148/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/istiaqueahmedarik/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/istiaqueahmedarik",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Adamjee Cantonment College, Dhaka",
+        "degree": "Class XII, Science",
+        "graduated": "N/A",
+        "description": "Currently student"
+      }
+    ],
+    "work": [
+      {
+        "company": "PAPA",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "PEER TALK",
+        "category": "",
+        "image": "peer.talk.jpg",
+        "url": "https://peertalk.netlify.app/"
+      },
+      {
+        "title": "PEER VILLAGE",
+        "category": "",
+        "image": "peervillage.jpg",
+        "url": "https://peer-village.web.app/"
+      },
+      {
+        "title": "GOOGLE CLONE",
+        "category": "",
+        "image": "google.jpg",
+        "url": "https://clonebd-4af31.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas semper mauris in vulputate mattis. Donec vulputate in ipsum in tristique. Mauris eleifend tempor porttitor. ",
+        "user": "Person 1"
+      },
+      {
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas semper mauris in vulputate mattis. Donec vulputate in ipsum in tristique. Mauris eleifend tempor porttitor. ",
+        "user": "Person 2"
+      }
+    ]
+  }
+}
